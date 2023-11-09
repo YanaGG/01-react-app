@@ -6,4 +6,7 @@
 body {
   font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell',
     'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+
+  color: rgb(233, 203, 34);
+  background-color: rgb(66, 8, 40);
 }
